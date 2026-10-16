@@ -1,0 +1,22 @@
+Isha Das
+Engineer
+isha@example.com
+
+SUMMARY
+Engineer with 10 years of experience.
+
+EXPERIENCE
+Orchid Labs - Engineer (2021 - present)
+- Designed wireframes and high-fidelity prototypes in Figma for a booking app
+- Ran usability tests with 30 customers and turned findings into design changes
+- Maintained the component library of the company design system in Figma
+
+Northwind Systems - Engineer (2016 - 2021)
+- Handed off annotated designs to the React development team
+- Defined accessibility guidelines for colour contrast and font sizes
+
+SKILLS
+Figma, user research, wireframing, prototyping, design systems
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

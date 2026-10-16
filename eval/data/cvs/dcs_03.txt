@@ -1,0 +1,23 @@
+Sara Mehta
+Airport Systems Specialist
+sara@example.com
+
+SUMMARY
+Airport Systems Specialist with 10 years of experience.
+
+EXPERIENCE
+Northwind Systems - Airport Systems Specialist (2021 - present)
+- Delivered check-in and boarding workflows on Amadeus Altea Departure Control for ground handlers
+- Trained check-in agents on boarding control and standby list management
+- Configured load control and weight and balance rules in the departure control system
+
+Crestline Corp - Airport Systems Specialist (2016 - 2021)
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Altea Departure Control, SITA Horizon, check-in, boarding, load control, weight and balance
+
+EDUCATION
+B.Tech / B.Sc, Pune University

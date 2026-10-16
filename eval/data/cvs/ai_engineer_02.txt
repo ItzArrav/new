@@ -1,0 +1,23 @@
+Kabir Singh
+Machine Learning Engineer
+kabir@example.com
+
+SUMMARY
+Machine Learning Engineer with 7 years of experience.
+
+EXPERIENCE
+Summit Services - Machine Learning Engineer (2021 - present)
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Developed multi-agent LLM workflows with LangGraph and tool calling
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+
+BlueLake Technologies - Machine Learning Engineer (2016 - 2021)
+- Built a RAG pipeline with embeddings, a vector database and LangChain for document question answering
+- Fine-tuned transformer models with LoRA for domain-specific text classification
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Python, PyTorch, LangChain, LangGraph, RAG, vector databases, LoRA fine-tuning, vLLM, Docker
+
+EDUCATION
+B.Tech / B.Sc, Anna University

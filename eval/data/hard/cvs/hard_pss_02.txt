@@ -1,0 +1,23 @@
+Aarav Mehta
+Software Engineer
+aarav@example.com
+
+SUMMARY
+Software Engineer with 9 years of experience.
+
+EXPERIENCE
+Crestline Corp - Software Engineer (2021 - present)
+- Mapped fare, seat map and ancillary configuration from a legacy reservation system to a new PSS
+- Managed codeshare and interline ticketing agreements in the reservation platform
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+
+Northwind Systems - Software Engineer (2016 - 2021)
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Configured fare rules and inventory classes in Amadeus Altea Reservation for a regional airline
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Amadeus Altea Reservation, fare rules, Navitaire New Skies, PNR
+
+EDUCATION
+B.Tech / B.Sc, Anna University

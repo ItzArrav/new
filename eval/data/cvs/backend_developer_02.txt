@@ -1,0 +1,24 @@
+Anika Reddy
+Software Engineer (Services)
+anika@example.com
+
+SUMMARY
+Software Engineer (Services) with 3 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Software Engineer (Services) (2021 - present)
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Containerized Kotlin Spring Boot services and deployed them to Kubernetes
+- Optimized SQL queries and database schemas for high-volume transactional services
+
+Orchid Labs - Software Engineer (Services) (2016 - 2021)
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+- Wrote Flask APIs and Celery workers for background job processing
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Node.js, Express, NestJS, Fastify, Python, FastAPI, Django, Flask, Java, Kotlin, Spring Boot, PostgreSQL
+
+EDUCATION
+B.Tech / B.Sc, Anna University

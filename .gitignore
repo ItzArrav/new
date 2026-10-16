@@ -1,0 +1,15 @@
+# secrets: never commit real keys (the template .env.example is allowed)
+.env
+.env.*
+!.env.example
+
+# runtime data: databases, usage logs and backups contain CV text and usage history
+data/*
+!data/.gitkeep
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local virtual environment (recreate it with: python -m venv .venv, then pip install -r requirements.txt)
+.venv/

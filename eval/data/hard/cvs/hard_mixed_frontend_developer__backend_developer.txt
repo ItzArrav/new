@@ -1,0 +1,23 @@
+Rohan Reddy
+Consultant
+rohan@example.com
+
+SUMMARY
+Consultant with 10 years of experience.
+
+EXPERIENCE
+Northwind Systems - Consultant (2021 - present)
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Translated Figma designs into pixel-perfect CSS and Tailwind layouts
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+
+Orchid Labs - Consultant (2016 - 2021)
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+- Built Python microservices with FastAPI and Django REST Framework
+
+SKILLS
+TanStack Query, Git, Tailwind CSS, React, Spring Boot, NestJS
+
+EDUCATION
+B.Tech / B.Sc, Anna University

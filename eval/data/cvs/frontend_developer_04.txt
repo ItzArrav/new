@@ -1,0 +1,24 @@
+Kabir Das
+Front-End Developer
+kabir@example.com
+
+SUMMARY
+Front-End Developer with 7 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Front-End Developer (2021 - present)
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+- Implemented accessible form components and state management in React
+
+Orchid Labs - Front-End Developer (2016 - 2021)
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Wrote Flask APIs and Celery workers for background job processing
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Angular, React, Next.js, Ionic, Tailwind CSS, TanStack Query, Vite, Git, TypeScript
+
+EDUCATION
+B.Tech / B.Sc, Anna University

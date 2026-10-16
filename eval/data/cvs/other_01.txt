@@ -1,0 +1,22 @@
+Diya Mehta
+Senior Accountant
+diya@example.com
+
+SUMMARY
+Senior Accountant with 3 years of experience.
+
+EXPERIENCE
+Crestline Corp - Senior Accountant (2021 - present)
+- Managed payroll for 120 employees and filed statutory returns
+- Supported the external audit and resolved variance queries
+- Reduced month-end close time from eight days to five
+
+Summit Services - Senior Accountant (2016 - 2021)
+- Prepared monthly financial statements and reconciled accounts payable
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Excel, SAP FI, IFRS, payroll, audit support
+
+EDUCATION
+B.Tech / B.Sc, Pune University

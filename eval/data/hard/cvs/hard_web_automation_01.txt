@@ -1,0 +1,23 @@
+Anika Reddy
+Technical Specialist
+anika@example.com
+
+SUMMARY
+Technical Specialist with 10 years of experience.
+
+EXPERIENCE
+Orchid Labs - Technical Specialist (2021 - present)
+- Created cross-browser test automation on BrowserStack using Playwright
+- Reduced flaky UI tests by introducing explicit waits and stable locators in Selenium
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+
+Helio Group - Technical Specialist (2016 - 2021)
+- Automated web form validation scenarios with Selenium Grid and TestNG
+- Maintained a Cypress end-to-end test library for a React application
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Playwright, Allure, TestNG, Jenkins
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

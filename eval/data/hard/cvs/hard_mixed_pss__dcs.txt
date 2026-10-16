@@ -1,0 +1,23 @@
+Rohan Singh
+Senior Engineer
+rohan@example.com
+
+SUMMARY
+Senior Engineer with 9 years of experience.
+
+EXPERIENCE
+Summit Services - Senior Engineer (2021 - present)
+- Mapped fare, seat map and ancillary configuration from a legacy reservation system to a new PSS
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Implemented e-ticketing and EMD issuance workflows within the airline's Passenger Service System
+- Handled baggage reconciliation and boarding pass issuance for departure control operations
+
+Crestline Corp - Senior Engineer (2016 - 2021)
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+- Delivered check-in and boarding workflows on Amadeus Altea Departure Control for ground handlers
+
+SKILLS
+fare rules, Navitaire New Skies, Amadeus Altea Reservation, ticketing, Altea Departure Control, boarding
+
+EDUCATION
+B.Tech / B.Sc, Anna University

@@ -1,0 +1,18 @@
+# Never bake secrets or runtime data into an image. The key is passed at run time (env_file in docker-compose.yml).
+.env
+.env.*
+!.env.example
+
+# databases, usage logs and backups hold CV text and usage history
+data/
+
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# not needed to run the service
+tests/
+docs/
+eval/out/

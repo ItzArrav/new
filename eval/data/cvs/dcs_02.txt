@@ -1,0 +1,24 @@
+Aarav Sharma
+DCS Support Engineer
+aarav@example.com
+
+SUMMARY
+DCS Support Engineer with 5 years of experience.
+
+EXPERIENCE
+Crestline Corp - DCS Support Engineer (2021 - present)
+- Rolled out SITA Horizon DCS to twelve airport stations
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Handled baggage reconciliation and boarding pass issuance for departure control operations
+
+Northwind Systems - DCS Support Engineer (2016 - 2021)
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Trained check-in agents on boarding control and standby list management
+- Implemented e-ticketing and EMD issuance workflows within the airline's Passenger Service System
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Altea Departure Control, SITA Horizon, check-in, boarding, load control, weight and balance
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

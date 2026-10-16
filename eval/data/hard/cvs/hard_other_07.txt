@@ -1,0 +1,22 @@
+Anika Sharma
+Engineer
+anika@example.com
+
+SUMMARY
+Engineer with 9 years of experience.
+
+EXPERIENCE
+Summit Services - Engineer (2021 - present)
+- Wrote reference documentation for 60 REST API endpoints from Swagger specifications
+- Produced user guides and release notes for a payments platform
+- Interviewed developers to document authentication and error-handling behaviour
+
+Northwind Systems - Engineer (2016 - 2021)
+- Maintained the documentation style guide and review process
+- Reduced support tickets by 15 percent with clearer onboarding guides
+
+SKILLS
+API documentation, Markdown, Swagger, user guides, style guides
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

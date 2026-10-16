@@ -1,0 +1,23 @@
+Neel Gupta
+Conversational AI Tester
+neel@example.com
+
+SUMMARY
+Conversational AI Tester with 7 years of experience.
+
+EXPERIENCE
+Summit Services - Conversational AI Tester (2021 - present)
+- Ran regression testing of conversation flows after every NLU model update
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+
+Helio Group - Conversational AI Tester (2016 - 2021)
+- Evaluated LLM output quality for a conversational assistant using rubric-based scoring
+- Assessed LLM chatbot responses for safety, accuracy and consistency against expected answers
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Dialogflow, Rasa, intent testing, dialogue flows, LLM evaluation, test case design, Jira
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

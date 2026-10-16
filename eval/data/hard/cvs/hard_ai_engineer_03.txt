@@ -1,0 +1,23 @@
+Rohan Das
+Technical Specialist
+rohan@example.com
+
+SUMMARY
+Technical Specialist with 11 years of experience.
+
+EXPERIENCE
+Crestline Corp - Technical Specialist (2021 - present)
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Served open-source LLMs with vLLM and quantization on GPU infrastructure
+- Built a RAG pipeline with embeddings, a vector database and LangChain for document question answering
+
+Orchid Labs - Technical Specialist (2016 - 2021)
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Python, Docker, vLLM, vector databases
+
+EDUCATION
+B.Tech / B.Sc, Anna University

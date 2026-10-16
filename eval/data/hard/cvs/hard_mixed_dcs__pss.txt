@@ -1,0 +1,23 @@
+Aarav Gupta
+Engineer
+aarav@example.com
+
+SUMMARY
+Engineer with 6 years of experience.
+
+EXPERIENCE
+Crestline Corp - Engineer (2021 - present)
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Trained check-in agents on boarding control and standby list management
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+
+Orchid Labs - Engineer (2016 - 2021)
+- Rolled out SITA Horizon DCS to twelve airport stations
+- Managed codeshare and interline ticketing agreements in the reservation platform
+
+SKILLS
+load control, boarding, check-in, weight and balance, Amadeus Altea Reservation, EMD
+
+EDUCATION
+B.Tech / B.Sc, Pune University

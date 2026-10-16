@@ -1,0 +1,23 @@
+Sara Iyer
+Software Engineer
+sara@example.com
+
+SUMMARY
+Software Engineer with 3 years of experience.
+
+EXPERIENCE
+Summit Services - Software Engineer (2021 - present)
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+
+Northwind Systems - Software Engineer (2016 - 2021)
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Vite, Ionic, Tailwind CSS, Next.js
+
+EDUCATION
+B.Tech / B.Sc, Anna University

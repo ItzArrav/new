@@ -1,0 +1,23 @@
+Isha Sharma
+Consultant
+isha@example.com
+
+SUMMARY
+Consultant with 10 years of experience.
+
+EXPERIENCE
+Northwind Systems - Consultant (2021 - present)
+- Built Appium test automation for Android and iOS apps using Java and TestNG
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+- Cut mobile release testing time by automating smoke tests in Espresso and XCUITest
+
+Summit Services - Consultant (2016 - 2021)
+- Wrote Espresso UI tests for a native Android banking app
+- Executed mobile app automation across 30 device and OS combinations on BrowserStack App Automate
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Appium, TestNG, WebdriverIO, XCUITest
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

@@ -1,0 +1,23 @@
+Rohan Patel
+Analyst
+rohan@example.com
+
+SUMMARY
+Analyst with 8 years of experience.
+
+EXPERIENCE
+Crestline Corp - Analyst (2021 - present)
+- Optimized SQL queries and database schemas for high-volume transactional services
+- Implemented authentication, rate limiting and Redis caching in Fastify services
+- Containerized Kotlin Spring Boot services and deployed them to Kubernetes
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+
+BlueLake Technologies - Analyst (2016 - 2021)
+- Designed REST APIs with Node.js, Express and NestJS backed by PostgreSQL
+- Fine-tuned transformer models with LoRA for domain-specific text classification
+
+SKILLS
+NestJS, Express, Kotlin, FastAPI, PyTorch, vLLM
+
+EDUCATION
+B.Tech / B.Sc, Pune University

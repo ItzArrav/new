@@ -1,0 +1,23 @@
+Aarav Singh
+Senior Engineer
+aarav@example.com
+
+SUMMARY
+Senior Engineer with 7 years of experience.
+
+EXPERIENCE
+Northwind Systems - Senior Engineer (2021 - present)
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Built Python microservices with FastAPI and Django REST Framework
+- Optimized SQL queries and database schemas for high-volume transactional services
+
+BlueLake Technologies - Senior Engineer (2016 - 2021)
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+- Wrote Flask APIs and Celery workers for background job processing
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Node.js, Spring Boot, NestJS, Django
+
+EDUCATION
+B.Tech / B.Sc, Pune University

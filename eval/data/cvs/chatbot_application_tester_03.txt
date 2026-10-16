@@ -1,0 +1,24 @@
+Kabir Gupta
+Virtual Assistant Test Engineer
+kabir@example.com
+
+SUMMARY
+Virtual Assistant Test Engineer with 6 years of experience.
+
+EXPERIENCE
+Northwind Systems - Virtual Assistant Test Engineer (2021 - present)
+- Validated intent classification accuracy and utterance variations for a banking virtual assistant
+- Evaluated LLM output quality for a conversational assistant using rubric-based scoring
+- Created conversational test scripts covering happy paths, misspellings and out-of-scope utterances
+
+BlueLake Technologies - Virtual Assistant Test Engineer (2016 - 2021)
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+- Ran regression testing of conversation flows after every NLU model update
+- Developed multi-agent LLM workflows with LangGraph and tool calling
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Dialogflow, Rasa, intent testing, dialogue flows, LLM evaluation, test case design, Jira
+
+EDUCATION
+B.Tech / B.Sc, Anna University

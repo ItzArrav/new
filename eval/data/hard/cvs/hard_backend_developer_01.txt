@@ -1,0 +1,23 @@
+Vikram Das
+Engineer
+vikram@example.com
+
+SUMMARY
+Engineer with 11 years of experience.
+
+EXPERIENCE
+Crestline Corp - Engineer (2021 - present)
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Wrote Flask APIs and Celery workers for background job processing
+- Built Python microservices with FastAPI and Django REST Framework
+
+Helio Group - Engineer (2016 - 2021)
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+- Optimized SQL queries and database schemas for high-volume transactional services
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Express, FastAPI, Node.js, Fastify
+
+EDUCATION
+B.Tech / B.Sc, Pune University

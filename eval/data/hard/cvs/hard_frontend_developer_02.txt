@@ -1,0 +1,23 @@
+Rohan Singh
+Consultant
+rohan@example.com
+
+SUMMARY
+Consultant with 10 years of experience.
+
+EXPERIENCE
+Helio Group - Consultant (2021 - present)
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Implemented accessible form components and state management in React
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+
+Summit Services - Consultant (2016 - 2021)
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Presented weekly status updates to stakeholders
+
+SKILLS
+TypeScript, Tailwind CSS, TanStack Query, Angular
+
+EDUCATION
+B.Tech / B.Sc, Pune University

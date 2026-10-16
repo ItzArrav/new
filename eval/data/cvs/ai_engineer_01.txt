@@ -1,0 +1,23 @@
+Aarav Patel
+AI Engineer
+aarav@example.com
+
+SUMMARY
+AI Engineer with 10 years of experience.
+
+EXPERIENCE
+Helio Group - AI Engineer (2021 - present)
+- Served open-source LLMs with vLLM and quantization on GPU infrastructure
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Trained PyTorch models for computer vision and optimized inference with ONNX
+
+BlueLake Technologies - AI Engineer (2016 - 2021)
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+- Developed multi-agent LLM workflows with LangGraph and tool calling
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Python, PyTorch, LangChain, LangGraph, RAG, vector databases, LoRA fine-tuning, vLLM, Docker
+
+EDUCATION
+B.Tech / B.Sc, Pune University

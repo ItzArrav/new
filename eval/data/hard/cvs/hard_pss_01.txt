@@ -1,0 +1,23 @@
+Anika Gupta
+Technical Specialist
+anika@example.com
+
+SUMMARY
+Technical Specialist with 8 years of experience.
+
+EXPERIENCE
+Northwind Systems - Technical Specialist (2021 - present)
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Mapped fare, seat map and ancillary configuration from a legacy reservation system to a new PSS
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+
+Orchid Labs - Technical Specialist (2016 - 2021)
+- Implemented e-ticketing and EMD issuance workflows within the airline's Passenger Service System
+- Supported airline inventory management and booking class availability in Sabre Reservations
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Amadeus Altea Reservation, PNR, Sabre, Navitaire New Skies
+
+EDUCATION
+B.Tech / B.Sc, Anna University

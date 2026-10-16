@@ -1,0 +1,23 @@
+Anika Mehta
+Engineer
+anika@example.com
+
+SUMMARY
+Engineer with 3 years of experience.
+
+EXPERIENCE
+Summit Services - Engineer (2021 - present)
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Created conversational test scripts covering happy paths, misspellings and out-of-scope utterances
+
+Orchid Labs - Engineer (2016 - 2021)
+- Assessed LLM chatbot responses for safety, accuracy and consistency against expected answers
+- Evaluated LLM output quality for a conversational assistant using rubric-based scoring
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Jira, Rasa, Dialogflow, test case design
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

@@ -1,0 +1,22 @@
+Sara Nair
+HR Manager
+sara@example.com
+
+SUMMARY
+HR Manager with 8 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - HR Manager (2021 - present)
+- Rolled out an onboarding programme that cut early attrition
+- Handled employee relations cases and disciplinary procedures
+- Managed end-to-end recruitment for retail and warehouse roles
+
+Northwind Systems - HR Manager (2016 - 2021)
+- Administered performance reviews and salary benchmarking
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+recruitment, onboarding, employee relations, labour law
+
+EDUCATION
+B.Tech / B.Sc, Anna University

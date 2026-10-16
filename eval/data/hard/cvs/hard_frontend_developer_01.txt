@@ -1,0 +1,23 @@
+Meera Iyer
+Software Engineer
+meera@example.com
+
+SUMMARY
+Software Engineer with 5 years of experience.
+
+EXPERIENCE
+Crestline Corp - Software Engineer (2021 - present)
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Translated Figma designs into pixel-perfect CSS and Tailwind layouts
+
+Summit Services - Software Engineer (2016 - 2021)
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+TypeScript, TanStack Query, Angular, Next.js
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

@@ -1,0 +1,24 @@
+Sara Sharma
+Reservations Systems Analyst
+sara@example.com
+
+SUMMARY
+Reservations Systems Analyst with 11 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Reservations Systems Analyst (2021 - present)
+- Supported airline inventory management and booking class availability in Sabre Reservations
+- Implemented e-ticketing and EMD issuance workflows within the airline's Passenger Service System
+- Managed codeshare and interline ticketing agreements in the reservation platform
+
+Orchid Labs - Reservations Systems Analyst (2016 - 2021)
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Trained check-in agents on boarding control and standby list management
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Amadeus Altea Reservation, Navitaire New Skies, Sabre, fare rules, ticketing, EMD, PNR
+
+EDUCATION
+B.Tech / B.Sc, Pune University

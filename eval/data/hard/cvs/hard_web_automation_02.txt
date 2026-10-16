@@ -1,0 +1,23 @@
+Sara Iyer
+Software Engineer
+sara@example.com
+
+SUMMARY
+Software Engineer with 4 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Software Engineer (2021 - present)
+- Maintained a Cypress end-to-end test library for a React application
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Automated regression suites in Cypress covering login, checkout and search flows
+
+Orchid Labs - Software Engineer (2016 - 2021)
+- Created cross-browser test automation on BrowserStack using Playwright
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Jenkins, Playwright, Cypress, TestNG
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

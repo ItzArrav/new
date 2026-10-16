@@ -1,0 +1,23 @@
+Diya Nair
+Departure Control Analyst
+diya@example.com
+
+SUMMARY
+Departure Control Analyst with 11 years of experience.
+
+EXPERIENCE
+Northwind Systems - Departure Control Analyst (2021 - present)
+- Trained check-in agents on boarding control and standby list management
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+
+Orchid Labs - Departure Control Analyst (2016 - 2021)
+- Delivered check-in and boarding workflows on Amadeus Altea Departure Control for ground handlers
+- Configured load control and weight and balance rules in the departure control system
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Altea Departure Control, SITA Horizon, check-in, boarding, load control, weight and balance
+
+EDUCATION
+B.Tech / B.Sc, Anna University

@@ -1,0 +1,23 @@
+Kabir Iyer
+Test Automation Engineer
+kabir@example.com
+
+SUMMARY
+Test Automation Engineer with 9 years of experience.
+
+EXPERIENCE
+Crestline Corp - Test Automation Engineer (2021 - present)
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+- Maintained a Cypress end-to-end test library for a React application
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+
+Summit Services - Test Automation Engineer (2016 - 2021)
+- Automated web form validation scenarios with Selenium Grid and TestNG
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Selenium WebDriver, Playwright, Cypress, TestNG, Allure, Jenkins, Page Object Model
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

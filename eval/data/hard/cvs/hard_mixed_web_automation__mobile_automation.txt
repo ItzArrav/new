@@ -1,0 +1,23 @@
+Diya Iyer
+Software Engineer
+diya@example.com
+
+SUMMARY
+Software Engineer with 6 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Software Engineer (2021 - present)
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+- Reduced flaky UI tests by introducing explicit waits and stable locators in Selenium
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+
+Crestline Corp - Software Engineer (2016 - 2021)
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+- Cut mobile release testing time by automating smoke tests in Espresso and XCUITest
+
+SKILLS
+Allure, Page Object Model, TestNG, Selenium WebDriver, Espresso, Fastlane
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

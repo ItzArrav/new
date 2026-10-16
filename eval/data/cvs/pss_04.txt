@@ -1,0 +1,23 @@
+Aarav Sharma
+Reservations Systems Analyst
+aarav@example.com
+
+SUMMARY
+Reservations Systems Analyst with 9 years of experience.
+
+EXPERIENCE
+Northwind Systems - Reservations Systems Analyst (2021 - present)
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+- Supported airline inventory management and booking class availability in Sabre Reservations
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+
+Crestline Corp - Reservations Systems Analyst (2016 - 2021)
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+- Managed codeshare and interline ticketing agreements in the reservation platform
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Amadeus Altea Reservation, Navitaire New Skies, Sabre, fare rules, ticketing, EMD, PNR
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

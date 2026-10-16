@@ -1,0 +1,23 @@
+Sara Das
+Analyst
+sara@example.com
+
+SUMMARY
+Analyst with 7 years of experience.
+
+EXPERIENCE
+Northwind Systems - Analyst (2021 - present)
+- Rolled out SITA Horizon DCS to twelve airport stations
+- Handled baggage reconciliation and boarding pass issuance for departure control operations
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+
+Helio Group - Analyst (2016 - 2021)
+- Configured load control and weight and balance rules in the departure control system
+- Trained check-in agents on boarding control and standby list management
+- Presented weekly status updates to stakeholders
+
+SKILLS
+check-in, weight and balance, Altea Departure Control, load control
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

@@ -1,0 +1,23 @@
+Meera Sharma
+Airline Inventory Specialist
+meera@example.com
+
+SUMMARY
+Airline Inventory Specialist with 11 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Airline Inventory Specialist (2021 - present)
+- Managed codeshare and interline ticketing agreements in the reservation platform
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+
+Northwind Systems - Airline Inventory Specialist (2016 - 2021)
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+- Mapped fare, seat map and ancillary configuration from a legacy reservation system to a new PSS
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Amadeus Altea Reservation, Navitaire New Skies, Sabre, fare rules, ticketing, EMD, PNR
+
+EDUCATION
+B.Tech / B.Sc, Pune University

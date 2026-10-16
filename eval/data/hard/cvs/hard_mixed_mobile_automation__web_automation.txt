@@ -1,0 +1,23 @@
+Meera Khan
+Senior Engineer
+meera@example.com
+
+SUMMARY
+Senior Engineer with 6 years of experience.
+
+EXPERIENCE
+Orchid Labs - Senior Engineer (2021 - present)
+- Set up mobile test automation in CI with Appium, Gradle and Fastlane
+- Created XCUITest suites for an iOS app and ran them on a device farm
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+- Integrated web UI test automation with Jenkins and generated Allure reports
+
+Northwind Systems - Senior Engineer (2016 - 2021)
+- Automated mobile regression flows with Appium and WebdriverIO on real devices
+- Maintained a Cypress end-to-end test library for a React application
+
+SKILLS
+Appium, BrowserStack App Automate, XCUITest, Espresso, Playwright, Selenium WebDriver
+
+EDUCATION
+B.Tech / B.Sc, Anna University

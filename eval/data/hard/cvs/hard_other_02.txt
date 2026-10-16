@@ -1,0 +1,22 @@
+Diya Mehta
+Analyst
+diya@example.com
+
+SUMMARY
+Analyst with 5 years of experience.
+
+EXPERIENCE
+Helio Group - Analyst (2021 - present)
+- Wrote and executed manual test cases for a retail banking web portal
+- Logged and tracked defects in Jira and verified fixes
+- Ran regression and user acceptance testing before every release
+
+Crestline Corp - Analyst (2016 - 2021)
+- Reviewed requirements and wrote test plans with business analysts
+- Checked responsive layouts by hand across Chrome, Safari and Edge
+
+SKILLS
+test cases, Jira, TestRail, UAT, regression testing, SQL
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

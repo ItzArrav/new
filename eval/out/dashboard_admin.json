@@ -1,0 +1,223 @@
+{
+    "source":  "platform",
+    "scope":  "all users",
+    "usage":  {
+                  "totals":  {
+                                 "calls":  281,
+                                 "input_tokens":  149936,
+                                 "output_tokens":  50241,
+                                 "cost_usd":  0.052635
+                             },
+                  "by_user":  {
+                                  "bob":  {
+                                              "calls":  64,
+                                              "input_tokens":  22319,
+                                              "output_tokens":  7177,
+                                              "cost_usd":  0.007654
+                                          },
+                                  "alice":  {
+                                                "calls":  63,
+                                                "input_tokens":  22378,
+                                                "output_tokens":  7259,
+                                                "cost_usd":  0.007712
+                                            },
+                                  "carol":  {
+                                                "calls":  56,
+                                                "input_tokens":  22608,
+                                                "output_tokens":  7314,
+                                                "cost_usd":  0.00778
+                                            },
+                                  "admin":  {
+                                                "calls":  98,
+                                                "input_tokens":  82631,
+                                                "output_tokens":  28491,
+                                                "cost_usd":  0.029489
+                                            }
+                              },
+                  "by_agent":  {
+                                   "cv_agent":  {
+                                                    "calls":  118,
+                                                    "input_tokens":  93820,
+                                                    "output_tokens":  32432,
+                                                    "cost_usd":  0.033532
+                                                },
+                                   "cv_checker":  {
+                                                      "calls":  20,
+                                                      "input_tokens":  11337,
+                                                      "output_tokens":  6952,
+                                                      "cost_usd":  0.005872
+                                                  },
+                                   "role_fit":  {
+                                                    "calls":  24,
+                                                    "input_tokens":  15137,
+                                                    "output_tokens":  2993,
+                                                    "cost_usd":  0.004066
+                                                },
+                                   "sentiment_agent":  {
+                                                           "calls":  119,
+                                                           "input_tokens":  29642,
+                                                           "output_tokens":  7864,
+                                                           "cost_usd":  0.009165
+                                                       }
+                               },
+                  "by_model":  {
+                                   "gpt-4o-mini":  {
+                                                       "calls":  24,
+                                                       "input_tokens":  0,
+                                                       "output_tokens":  0,
+                                                       "cost_usd":  0.0,
+                                                       "errors":  24
+                                                   },
+                                   "openai/gpt-4o-mini":  {
+                                                              "calls":  257,
+                                                              "input_tokens":  149936,
+                                                              "output_tokens":  50241,
+                                                              "cost_usd":  0.052635,
+                                                              "errors":  0
+                                                          }
+                               },
+                  "runs":  {
+                               "cv_agent":  {
+                                                "24h":  118,
+                                                "7d":  118,
+                                                "30d":  118
+                                            },
+                               "cv_checker":  {
+                                                  "24h":  20,
+                                                  "7d":  20,
+                                                  "30d":  20
+                                              },
+                               "role_fit":  {
+                                                "24h":  24,
+                                                "7d":  24,
+                                                "30d":  24
+                                            },
+                               "sentiment_agent":  {
+                                                       "24h":  119,
+                                                       "7d":  119,
+                                                       "30d":  119
+                                                   }
+                           },
+                  "agent_health":  {
+                                       "cv_agent":  {
+                                                        "calls":  118,
+                                                        "errors":  16,
+                                                        "error_rate":  0.13559322033898305,
+                                                        "avg_latency_ms":  4401.6
+                                                    },
+                                       "cv_checker":  {
+                                                          "calls":  20,
+                                                          "errors":  8,
+                                                          "error_rate":  0.4,
+                                                          "avg_latency_ms":  5232.1
+                                                      },
+                                       "role_fit":  {
+                                                        "calls":  24,
+                                                        "errors":  0,
+                                                        "error_rate":  0.0,
+                                                        "avg_latency_ms":  2536.8
+                                                    },
+                                       "sentiment_agent":  {
+                                                               "calls":  119,
+                                                               "errors":  0,
+                                                               "error_rate":  0.0,
+                                                               "avg_latency_ms":  2014.4
+                                                           }
+                                   }
+              },
+    "usage_not_reported":  0,
+    "budgets":  [
+                    {
+                        "user":  "admin",
+                        "used_tokens":  111122,
+                        "limit_tokens":  0,
+                        "remaining_tokens":  null,
+                        "percent_used":  null,
+                        "resets_at":  "2026-11-01T00:00:00"
+                    },
+                    {
+                        "user":  "alice",
+                        "used_tokens":  29637,
+                        "limit_tokens":  500000,
+                        "remaining_tokens":  470363,
+                        "percent_used":  5.9,
+                        "resets_at":  "2026-11-01T00:00:00"
+                    },
+                    {
+                        "user":  "bob",
+                        "used_tokens":  29496,
+                        "limit_tokens":  500000,
+                        "remaining_tokens":  470504,
+                        "percent_used":  5.9,
+                        "resets_at":  "2026-11-01T00:00:00"
+                    },
+                    {
+                        "user":  "carol",
+                        "used_tokens":  29922,
+                        "limit_tokens":  500000,
+                        "remaining_tokens":  470078,
+                        "percent_used":  6.0,
+                        "resets_at":  "2026-11-01T00:00:00"
+                    }
+                ],
+    "cv_acceptance":  {
+                          "AI Engineer":  {
+                                              "recommendations":  4,
+                                              "accepted":  2,
+                                              "modified":  1,
+                                              "rejected":  1,
+                                              "pending":  0,
+                                              "acceptance_rate":  0.5
+                                          },
+                          "ALL":  {
+                                      "recommendations":  12,
+                                      "accepted":  6,
+                                      "modified":  3,
+                                      "rejected":  3,
+                                      "pending":  0,
+                                      "acceptance_rate":  0.5
+                                  },
+                          "Chatbot Application Tester":  {
+                                                             "recommendations":  4,
+                                                             "accepted":  2,
+                                                             "modified":  1,
+                                                             "rejected":  1,
+                                                             "pending":  0,
+                                                             "acceptance_rate":  0.5
+                                                         },
+                          "Front-End Developer":  {
+                                                      "recommendations":  4,
+                                                      "accepted":  2,
+                                                      "modified":  1,
+                                                      "rejected":  1,
+                                                      "pending":  0,
+                                                      "acceptance_rate":  0.5
+                                                  }
+                      },
+    "time_saved":  {
+                       "cv_hours":  0.9,
+                       "sentiment_hours":  0.2,
+                       "total_hours":  1.1,
+                       "basis":  {
+                                     "accepted":  6,
+                                     "modified":  3,
+                                     "rejected":  3,
+                                     "sentiment_ok":  16,
+                                     "ai_sample_feedback_not_counted":  0
+                                 },
+                       "assumptions_minutes":  {
+                                                   "manual_min_per_cv":  10.0,
+                                                   "review_min_per_cv":  2.0,
+                                                   "manual_min_per_feedback":  1.0,
+                                                   "review_min_per_feedback":  0.25,
+                                                   "modify_credit":  0.5
+                                               },
+                       "note":  "Estimate from stated assumptions, not measured time."
+                   },
+    "definitions":  {
+                        "run":  "one logged LLM call (a retry counts as another call)",
+                        "time_saved_sentiment":  "only feedback people pasted or uploaded; AI-written sample feedback is not counted",
+                        "acceptance_rate":  "accepted / (accepted + modified + rejected); pending excluded",
+                        "latency":  "average over all calls, errors included"
+                    }
+}

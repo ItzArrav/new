@@ -1,0 +1,24 @@
+Meera Sharma
+Conversational AI Tester
+meera@example.com
+
+SUMMARY
+Conversational AI Tester with 11 years of experience.
+
+EXPERIENCE
+Northwind Systems - Conversational AI Tester (2021 - present)
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Created conversational test scripts covering happy paths, misspellings and out-of-scope utterances
+- Validated intent classification accuracy and utterance variations for a banking virtual assistant
+
+Crestline Corp - Conversational AI Tester (2016 - 2021)
+- Assessed LLM chatbot responses for safety, accuracy and consistency against expected answers
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+- Fine-tuned transformer models with LoRA for domain-specific text classification
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Dialogflow, Rasa, intent testing, dialogue flows, LLM evaluation, test case design, Jira
+
+EDUCATION
+B.Tech / B.Sc, Pune University

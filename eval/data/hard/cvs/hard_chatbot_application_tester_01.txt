@@ -1,0 +1,23 @@
+Kabir Reddy
+Engineer
+kabir@example.com
+
+SUMMARY
+Engineer with 11 years of experience.
+
+EXPERIENCE
+Crestline Corp - Engineer (2021 - present)
+- Assessed LLM chatbot responses for safety, accuracy and consistency against expected answers
+- Created conversational test scripts covering happy paths, misspellings and out-of-scope utterances
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+
+Summit Services - Engineer (2016 - 2021)
+- Ran regression testing of conversation flows after every NLU model update
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Dialogflow, LLM evaluation, dialogue flows, test case design
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

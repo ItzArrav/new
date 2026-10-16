@@ -1,0 +1,23 @@
+Aarav Reddy
+UI Engineer
+aarav@example.com
+
+SUMMARY
+UI Engineer with 5 years of experience.
+
+EXPERIENCE
+Northwind Systems - UI Engineer (2021 - present)
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+
+Crestline Corp - UI Engineer (2016 - 2021)
+- Implemented accessible form components and state management in React
+- Translated Figma designs into pixel-perfect CSS and Tailwind layouts
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Angular, React, Next.js, Ionic, Tailwind CSS, TanStack Query, Vite, Git, TypeScript
+
+EDUCATION
+B.Tech / B.Sc, Pune University

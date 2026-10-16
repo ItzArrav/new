@@ -1,0 +1,23 @@
+Anika Khan
+Front-End Developer
+anika@example.com
+
+SUMMARY
+Front-End Developer with 9 years of experience.
+
+EXPERIENCE
+Crestline Corp - Front-End Developer (2021 - present)
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Created Ionic hybrid mobile interfaces with Angular for iOS and Android
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+
+BlueLake Technologies - Front-End Developer (2016 - 2021)
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+- Implemented accessible form components and state management in React
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Angular, React, Next.js, Ionic, Tailwind CSS, TanStack Query, Vite, Git, TypeScript
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

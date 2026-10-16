@@ -1,0 +1,23 @@
+Rohan Khan
+Software Engineer
+rohan@example.com
+
+SUMMARY
+Software Engineer with 10 years of experience.
+
+EXPERIENCE
+Northwind Systems - Software Engineer (2021 - present)
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Configured load control and weight and balance rules in the departure control system
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+
+Helio Group - Software Engineer (2016 - 2021)
+- Handled baggage reconciliation and boarding pass issuance for departure control operations
+- Delivered check-in and boarding workflows on Amadeus Altea Departure Control for ground handlers
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Altea Departure Control, weight and balance, load control, check-in
+
+EDUCATION
+B.Tech / B.Sc, Anna University

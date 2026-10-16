@@ -1,0 +1,24 @@
+Rohan Nair
+Software Engineer (Services)
+rohan@example.com
+
+SUMMARY
+Software Engineer (Services) with 7 years of experience.
+
+EXPERIENCE
+Northwind Systems - Software Engineer (Services) (2021 - present)
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+- Designed REST APIs with Node.js, Express and NestJS backed by PostgreSQL
+- Wrote Flask APIs and Celery workers for background job processing
+
+Crestline Corp - Software Engineer (Services) (2016 - 2021)
+- Containerized Kotlin Spring Boot services and deployed them to Kubernetes
+- Built Python microservices with FastAPI and Django REST Framework
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Node.js, Express, NestJS, Fastify, Python, FastAPI, Django, Flask, Java, Kotlin, Spring Boot, PostgreSQL
+
+EDUCATION
+B.Tech / B.Sc, Pune University

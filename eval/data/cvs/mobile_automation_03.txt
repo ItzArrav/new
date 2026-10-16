@@ -1,0 +1,24 @@
+Isha Das
+Mobile Test Engineer
+isha@example.com
+
+SUMMARY
+Mobile Test Engineer with 7 years of experience.
+
+EXPERIENCE
+Summit Services - Mobile Test Engineer (2021 - present)
+- Built Appium test automation for Android and iOS apps using Java and TestNG
+- Created XCUITest suites for an iOS app and ran them on a device farm
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+
+Northwind Systems - Mobile Test Engineer (2016 - 2021)
+- Set up mobile test automation in CI with Appium, Gradle and Fastlane
+- Cut mobile release testing time by automating smoke tests in Espresso and XCUITest
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Appium, Espresso, XCUITest, WebdriverIO, BrowserStack App Automate, Fastlane, TestNG
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

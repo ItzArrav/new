@@ -1,0 +1,23 @@
+Vikram Sharma
+Consultant
+vikram@example.com
+
+SUMMARY
+Consultant with 9 years of experience.
+
+EXPERIENCE
+Helio Group - Consultant (2021 - present)
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+- Served open-source LLMs with vLLM and quantization on GPU infrastructure
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+
+Orchid Labs - Consultant (2016 - 2021)
+- Built a RAG pipeline with embeddings, a vector database and LangChain for document question answering
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+
+SKILLS
+RAG, Python, vLLM, LangChain, Dialogflow, dialogue flows
+
+EDUCATION
+B.Tech / B.Sc, Pune University

@@ -1,0 +1,24 @@
+Isha Nair
+PSS Functional Consultant
+isha@example.com
+
+SUMMARY
+PSS Functional Consultant with 3 years of experience.
+
+EXPERIENCE
+Summit Services - PSS Functional Consultant (2021 - present)
+- Configured fare rules and inventory classes in Amadeus Altea Reservation for a regional airline
+- Implemented e-ticketing and EMD issuance workflows within the airline's Passenger Service System
+- Resolved ticketing and schedule-change incidents during a PSS migration at a low-cost carrier
+
+Orchid Labs - PSS Functional Consultant (2016 - 2021)
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Amadeus Altea Reservation, Navitaire New Skies, Sabre, fare rules, ticketing, EMD, PNR
+
+EDUCATION
+B.Tech / B.Sc, Anna University

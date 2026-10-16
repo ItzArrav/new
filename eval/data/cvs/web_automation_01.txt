@@ -1,0 +1,23 @@
+Rohan Sharma
+QA Automation Engineer (Web)
+rohan@example.com
+
+SUMMARY
+QA Automation Engineer (Web) with 6 years of experience.
+
+EXPERIENCE
+Helio Group - QA Automation Engineer (Web) (2021 - present)
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Created cross-browser test automation on BrowserStack using Playwright
+- Maintained a Cypress end-to-end test library for a React application
+
+Crestline Corp - QA Automation Engineer (Web) (2016 - 2021)
+- Reduced flaky UI tests by introducing explicit waits and stable locators in Selenium
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Selenium WebDriver, Playwright, Cypress, TestNG, Allure, Jenkins, Page Object Model
+
+EDUCATION
+B.Tech / B.Sc, Anna University

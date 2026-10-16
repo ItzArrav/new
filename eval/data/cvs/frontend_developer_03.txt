@@ -1,0 +1,23 @@
+Diya Mehta
+Angular Developer
+diya@example.com
+
+SUMMARY
+Angular Developer with 8 years of experience.
+
+EXPERIENCE
+Northwind Systems - Angular Developer (2021 - present)
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+- Migrated a legacy SPA to Next.js with server-side rendering, improving page speed
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+
+Crestline Corp - Angular Developer (2016 - 2021)
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+- Implemented accessible form components and state management in React
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Angular, React, Next.js, Ionic, Tailwind CSS, TanStack Query, Vite, Git, TypeScript
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

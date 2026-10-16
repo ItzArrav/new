@@ -1,0 +1,24 @@
+Isha Gupta
+Back-End Developer
+isha@example.com
+
+SUMMARY
+Back-End Developer with 4 years of experience.
+
+EXPERIENCE
+Crestline Corp - Back-End Developer (2021 - present)
+- Implemented authentication, rate limiting and Redis caching in Fastify services
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Built Python microservices with FastAPI and Django REST Framework
+
+Orchid Labs - Back-End Developer (2016 - 2021)
+- Wrote Flask APIs and Celery workers for background job processing
+- Designed REST APIs with Node.js, Express and NestJS backed by PostgreSQL
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Node.js, Express, NestJS, Fastify, Python, FastAPI, Django, Flask, Java, Kotlin, Spring Boot, PostgreSQL
+
+EDUCATION
+B.Tech / B.Sc, Pune University

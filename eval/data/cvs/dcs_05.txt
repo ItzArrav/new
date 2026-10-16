@@ -1,0 +1,23 @@
+Kabir Mehta
+DCS Support Engineer
+kabir@example.com
+
+SUMMARY
+DCS Support Engineer with 11 years of experience.
+
+EXPERIENCE
+Summit Services - DCS Support Engineer (2021 - present)
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Trained check-in agents on boarding control and standby list management
+- Monitored flight close-out and load sheet distribution in the DCS
+
+Orchid Labs - DCS Support Engineer (2016 - 2021)
+- Configured load control and weight and balance rules in the departure control system
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Altea Departure Control, SITA Horizon, check-in, boarding, load control, weight and balance
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

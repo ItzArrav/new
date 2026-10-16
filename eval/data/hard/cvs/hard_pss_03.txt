@@ -1,0 +1,23 @@
+Sara Iyer
+Consultant
+sara@example.com
+
+SUMMARY
+Consultant with 7 years of experience.
+
+EXPERIENCE
+Crestline Corp - Consultant (2021 - present)
+- Validated reservation, fare quote and inventory interfaces of the PSS before go-live
+- Maintained PNR creation, ticketing and reissue flows on the Navitaire New Skies reservation platform
+- Managed codeshare and interline ticketing agreements in the reservation platform
+
+Orchid Labs - Consultant (2016 - 2021)
+- Mapped fare, seat map and ancillary configuration from a legacy reservation system to a new PSS
+- Configured fare rules and inventory classes in Amadeus Altea Reservation for a regional airline
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Sabre, Amadeus Altea Reservation, Navitaire New Skies, ticketing
+
+EDUCATION
+B.Tech / B.Sc, Pune University

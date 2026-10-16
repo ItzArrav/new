@@ -1,0 +1,23 @@
+Meera Sharma
+API Developer
+meera@example.com
+
+SUMMARY
+API Developer with 5 years of experience.
+
+EXPERIENCE
+Summit Services - API Developer (2021 - present)
+- Added OpenAPI documentation and integration tests for NestJS endpoints
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Optimized SQL queries and database schemas for high-volume transactional services
+
+Crestline Corp - API Developer (2016 - 2021)
+- Wrote Flask APIs and Celery workers for background job processing
+- Implemented authentication, rate limiting and Redis caching in Fastify services
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Node.js, Express, NestJS, Fastify, Python, FastAPI, Django, Flask, Java, Kotlin, Spring Boot, PostgreSQL
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

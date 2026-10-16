@@ -1,0 +1,23 @@
+Sara Sharma
+Analyst
+sara@example.com
+
+SUMMARY
+Analyst with 4 years of experience.
+
+EXPERIENCE
+Crestline Corp - Analyst (2021 - present)
+- Supported airport check-in counters, kiosks and boarding gate readers running a DCS platform
+- Configured load control and weight and balance rules in the departure control system
+- Delivered check-in and boarding workflows on Amadeus Altea Departure Control for ground handlers
+
+BlueLake Technologies - Analyst (2016 - 2021)
+- Resolved DCS interface incidents between check-in, baggage and gate systems
+- Handled baggage reconciliation and boarding pass issuance for departure control operations
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+SITA Horizon, check-in, weight and balance, load control
+
+EDUCATION
+B.Tech / B.Sc, Anna University

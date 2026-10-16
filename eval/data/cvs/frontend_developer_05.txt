@@ -1,0 +1,23 @@
+Vikram Singh
+UI Engineer
+vikram@example.com
+
+SUMMARY
+UI Engineer with 8 years of experience.
+
+EXPERIENCE
+Northwind Systems - UI Engineer (2021 - present)
+- Developed responsive React interfaces with Tailwind CSS and TanStack Query
+- Set up Vite builds, ESLint and Git branching workflows for the front-end team
+- Built reusable Angular components and lazy-loaded modules for a customer portal
+
+Crestline Corp - UI Engineer (2016 - 2021)
+- Implemented accessible form components and state management in React
+- Optimized bundle size and Core Web Vitals for a React storefront
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Angular, React, Next.js, Ionic, Tailwind CSS, TanStack Query, Vite, Git, TypeScript
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

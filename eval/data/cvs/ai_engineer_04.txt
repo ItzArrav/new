@@ -1,0 +1,24 @@
+Rohan Das
+AI Engineer
+rohan@example.com
+
+SUMMARY
+AI Engineer with 7 years of experience.
+
+EXPERIENCE
+Helio Group - AI Engineer (2021 - present)
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+- Trained PyTorch models for computer vision and optimized inference with ONNX
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+
+Crestline Corp - AI Engineer (2016 - 2021)
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Built a RAG pipeline with embeddings, a vector database and LangChain for document question answering
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Python, PyTorch, LangChain, LangGraph, RAG, vector databases, LoRA fine-tuning, vLLM, Docker
+
+EDUCATION
+B.Tech / B.Sc, Anna University

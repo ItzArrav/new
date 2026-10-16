@@ -1,0 +1,23 @@
+Aarav Nair
+Senior Engineer
+aarav@example.com
+
+SUMMARY
+Senior Engineer with 10 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Senior Engineer (2021 - present)
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+- Ran regression testing of conversation flows after every NLU model update
+- Created conversational test scripts covering happy paths, misspellings and out-of-scope utterances
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+
+Orchid Labs - Senior Engineer (2016 - 2021)
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Deployed ML models behind FastAPI endpoints with Docker and monitored data drift
+
+SKILLS
+test case design, dialogue flows, intent testing, Dialogflow, vLLM, LangChain
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

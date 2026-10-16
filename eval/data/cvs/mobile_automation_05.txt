@@ -1,0 +1,23 @@
+Diya Sharma
+SDET (Mobile)
+diya@example.com
+
+SUMMARY
+SDET (Mobile) with 3 years of experience.
+
+EXPERIENCE
+Summit Services - SDET (Mobile) (2021 - present)
+- Automated mobile regression flows with Appium and WebdriverIO on real devices
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+- Set up mobile test automation in CI with Appium, Gradle and Fastlane
+
+BlueLake Technologies - SDET (Mobile) (2016 - 2021)
+- Wrote Espresso UI tests for a native Android banking app
+- Cut mobile release testing time by automating smoke tests in Espresso and XCUITest
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Appium, Espresso, XCUITest, WebdriverIO, BrowserStack App Automate, Fastlane, TestNG
+
+EDUCATION
+B.Tech / B.Sc, Pune University

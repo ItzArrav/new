@@ -1,0 +1,24 @@
+Meera Khan
+Chatbot QA Analyst
+meera@example.com
+
+SUMMARY
+Chatbot QA Analyst with 6 years of experience.
+
+EXPERIENCE
+Helio Group - Chatbot QA Analyst (2021 - present)
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Evaluated LLM output quality for a conversational assistant using rubric-based scoring
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+
+Crestline Corp - Chatbot QA Analyst (2016 - 2021)
+- Validated intent classification accuracy and utterance variations for a banking virtual assistant
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+- Trained PyTorch models for computer vision and optimized inference with ONNX
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Dialogflow, Rasa, intent testing, dialogue flows, LLM evaluation, test case design, Jira
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

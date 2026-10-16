@@ -1,0 +1,13 @@
+[21:03:24.756] alice: started CV batch of 4
+[21:03:24.770] bob: started CV batch of 4
+[21:03:45.599] alice: batch done (4/4)
+[21:03:47.649] bob: batch done (4/4)
+[21:03:53.201] alice: sentiment done (6/6 ok)
+[21:03:53.355] alice: recorded 4 decisions
+[21:03:54.861] bob: sentiment done (5/6 ok)
+[21:03:54.951] bob: recorded 4 decisions
+[21:03:59.038] carol: started CV batch of 4
+[21:04:12.516] carol: batch done (4/4)
+[21:04:19.961] carol: sentiment done (5/6 ok)
+[21:04:20.049] carol: recorded 4 decisions
+[21:04:20.050] done: open the dashboard as admin to see all three users

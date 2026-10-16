@@ -1,0 +1,777 @@
+{
+  "set": "hard",
+  "metrics": {
+    "per_label": {
+      "PSS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "DCS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "Front-End Developer": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "Back-End Developer": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "Web Automation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "Mobile Automation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "AI Engineer": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.8571428571428571,
+        "support": 4,
+        "tp": 3,
+        "fp": 0,
+        "fn": 1
+      },
+      "Chatbot Application Tester": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.888888888888889,
+        "support": 4,
+        "tp": 4,
+        "fp": 1,
+        "fn": 0
+      },
+      "Other": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 8,
+        "tp": 8,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "accuracy": 0.975,
+    "macro_precision": 0.9777777777777779,
+    "macro_recall": 0.9722222222222222,
+    "n": 40
+  },
+  "multilabel": {
+    "per_label": {
+      "PSS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "DCS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "Front-End Developer": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 4,
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "Back-End Developer": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "Web Automation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "Mobile Automation": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "AI Engineer": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "support": 6,
+        "tp": 4,
+        "fp": 0,
+        "fn": 2
+      },
+      "Chatbot Application Tester": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 5,
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "Other": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "support": 8,
+        "tp": 8,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "micro_precision": 1.0,
+    "micro_recall": 0.9583333333333334
+  },
+  "confusion": {
+    "PSS": {
+      "PSS": 4
+    },
+    "DCS": {
+      "DCS": 4
+    },
+    "Front-End Developer": {
+      "Front-End Developer": 4
+    },
+    "Back-End Developer": {
+      "Back-End Developer": 4
+    },
+    "Web Automation": {
+      "Web Automation": 4
+    },
+    "Mobile Automation": {
+      "Mobile Automation": 4
+    },
+    "AI Engineer": {
+      "AI Engineer": 3,
+      "Chatbot Application Tester": 1
+    },
+    "Chatbot Application Tester": {
+      "Chatbot Application Tester": 4
+    },
+    "Other": {
+      "Other": 8
+    }
+  },
+  "models": {
+    "openai/gpt-4o-mini": 40
+  },
+  "rows": [
+    {
+      "filename": "hard_pss_01.txt",
+      "label": "PSS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "PSS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_pss_02.txt",
+      "label": "PSS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "PSS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_pss_03.txt",
+      "label": "PSS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "PSS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_dcs_01.txt",
+      "label": "DCS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "DCS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_dcs_02.txt",
+      "label": "DCS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "DCS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_dcs_03.txt",
+      "label": "DCS",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "DCS",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_frontend_developer_01.txt",
+      "label": "Front-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Front-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_frontend_developer_02.txt",
+      "label": "Front-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Front-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_frontend_developer_03.txt",
+      "label": "Front-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Front-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_backend_developer_01.txt",
+      "label": "Back-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Back-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_backend_developer_02.txt",
+      "label": "Back-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Back-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_backend_developer_03.txt",
+      "label": "Back-End Developer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Back-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_web_automation_01.txt",
+      "label": "Web Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Web Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_web_automation_02.txt",
+      "label": "Web Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Web Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_web_automation_03.txt",
+      "label": "Web Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Web Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mobile_automation_01.txt",
+      "label": "Mobile Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Mobile Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mobile_automation_02.txt",
+      "label": "Mobile Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Mobile Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mobile_automation_03.txt",
+      "label": "Mobile Automation",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Mobile Automation",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_ai_engineer_01.txt",
+      "label": "AI Engineer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "AI Engineer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_ai_engineer_02.txt",
+      "label": "AI Engineer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "AI Engineer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_ai_engineer_03.txt",
+      "label": "AI Engineer",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "AI Engineer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_chatbot_application_tester_01.txt",
+      "label": "Chatbot Application Tester",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Chatbot Application Tester",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_chatbot_application_tester_02.txt",
+      "label": "Chatbot Application Tester",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Chatbot Application Tester",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_chatbot_application_tester_03.txt",
+      "label": "Chatbot Application Tester",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Chatbot Application Tester",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mixed_backend_developer__ai_engineer.txt",
+      "label": "Back-End Developer",
+      "secondary": "AI Engineer",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Back-End Developer",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_mixed_frontend_developer__backend_developer.txt",
+      "label": "Front-End Developer",
+      "secondary": "Back-End Developer",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Front-End Developer",
+      "predicted_secondary": [
+        "Back-End Developer"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_mixed_web_automation__mobile_automation.txt",
+      "label": "Web Automation",
+      "secondary": "Mobile Automation",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Web Automation",
+      "predicted_secondary": [
+        "Mobile Automation"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mixed_mobile_automation__web_automation.txt",
+      "label": "Mobile Automation",
+      "secondary": "Web Automation",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Mobile Automation",
+      "predicted_secondary": [
+        "Web Automation"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_mixed_ai_engineer__chatbot_application_tester.txt",
+      "label": "AI Engineer",
+      "secondary": "Chatbot Application Tester",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Chatbot Application Tester",
+      "predicted_secondary": [
+        "AI Engineer"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_mixed_chatbot_application_tester__ai_engineer.txt",
+      "label": "Chatbot Application Tester",
+      "secondary": "AI Engineer",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Chatbot Application Tester",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_mixed_pss__dcs.txt",
+      "label": "PSS",
+      "secondary": "DCS",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "PSS",
+      "predicted_secondary": [
+        "DCS"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_mixed_dcs__pss.txt",
+      "label": "DCS",
+      "secondary": "PSS",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "DCS",
+      "predicted_secondary": [
+        "PSS"
+      ],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 0.9
+    },
+    {
+      "filename": "hard_other_01.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_02.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_03.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_04.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_05.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_06.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_07.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    },
+    {
+      "filename": "hard_other_08.txt",
+      "label": "Other",
+      "secondary": "",
+      "kind": "normal",
+      "injection_target": "",
+      "predicted": "Other",
+      "predicted_secondary": [],
+      "ok": true,
+      "attempts": 1,
+      "error": null,
+      "injection_flagged": false,
+      "confidence": 1.0
+    }
+  ]
+}

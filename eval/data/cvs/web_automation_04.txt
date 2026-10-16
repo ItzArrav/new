@@ -1,0 +1,23 @@
+Meera Sharma
+QA Automation Engineer (Web)
+meera@example.com
+
+SUMMARY
+QA Automation Engineer (Web) with 7 years of experience.
+
+EXPERIENCE
+Orchid Labs - QA Automation Engineer (Web) (2021 - present)
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+- Automated web form validation scenarios with Selenium Grid and TestNG
+
+BlueLake Technologies - QA Automation Engineer (Web) (2016 - 2021)
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Maintained a Cypress end-to-end test library for a React application
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Selenium WebDriver, Playwright, Cypress, TestNG, Allure, Jenkins, Page Object Model
+
+EDUCATION
+B.Tech / B.Sc, Pune University

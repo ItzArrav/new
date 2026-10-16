@@ -1,0 +1,10 @@
+{
+  "records": [
+    {"time": "2026-10-05T04:10:00Z", "who": "erin", "bot": "invoice-extractor", "llm": "gpt-4o-mini", "tokens": {"in": 1200, "out": 310}, "ms": 1450, "result": "ok"},
+    {"time": "2026-10-05T03:20:00Z", "who": "erin", "bot": "invoice-extractor", "llm": "gpt-4o-mini", "tokens": {"in": 980, "out": 250}, "ms": 1320, "result": "ok"},
+    {"time": "2026-10-04T15:45:00Z", "who": "frank", "bot": "invoice-extractor", "llm": "gpt-4o-mini", "tokens": {"in": 1500, "out": 0}, "ms": 300, "result": "error"},
+    {"time": "2026-10-03T09:00:00Z", "who": "frank", "bot": "email-summarizer", "llm": "gpt-4o-mini", "tokens": {"in": 700, "out": 180}, "ms": 900, "result": "ok"},
+    {"time": "2026-09-28T12:30:00Z", "who": "erin", "bot": "email-summarizer", "llm": "gpt-4o-mini", "tokens": {"in": 640, "out": 150}, "ms": 870, "result": "ok"},
+    {"time": "2026-09-20T08:15:00Z", "who": "frank", "bot": "invoice-extractor", "llm": "gpt-4o-mini", "tokens": {"in": 1100, "out": 290}, "ms": 1400, "result": "ok"}
+  ]
+}

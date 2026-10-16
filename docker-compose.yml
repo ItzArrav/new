@@ -1,0 +1,15 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      DATABASE_URL: sqlite:////srv/data/app.db
+      USAGE_JSONL_PATH: /srv/data/raw_usage.jsonl
+    volumes:
+      - appdata:/srv/data   # DB and raw usage log survive restarts
+    restart: unless-stopped
+
+volumes:
+  appdata:

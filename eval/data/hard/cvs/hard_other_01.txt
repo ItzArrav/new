@@ -1,0 +1,22 @@
+Kabir Patel
+Senior Engineer
+kabir@example.com
+
+SUMMARY
+Senior Engineer with 7 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Senior Engineer (2021 - present)
+- Built CI/CD pipelines in Jenkins and GitHub Actions for 40 microservices
+- Managed Kubernetes clusters on AWS EKS provisioned with Terraform
+- Set up Prometheus and Grafana monitoring with on-call alerting
+
+Crestline Corp - Senior Engineer (2016 - 2021)
+- Automated server configuration with Ansible playbooks
+- Reduced cloud spend by 25 percent by right-sizing EC2 instances
+
+SKILLS
+Kubernetes, Docker, Terraform, AWS, Jenkins, Prometheus, Ansible, Bash
+
+EDUCATION
+B.Tech / B.Sc, Anna University

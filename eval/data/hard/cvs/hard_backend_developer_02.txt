@@ -1,0 +1,23 @@
+Vikram Patel
+Technical Specialist
+vikram@example.com
+
+SUMMARY
+Technical Specialist with 9 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - Technical Specialist (2021 - present)
+- Implemented authentication, rate limiting and Redis caching in Fastify services
+- Developed Spring Boot services in Java with Kafka messaging and JPA
+- Optimized SQL queries and database schemas for high-volume transactional services
+
+Northwind Systems - Technical Specialist (2016 - 2021)
+- Built Python microservices with FastAPI and Django REST Framework
+- Wrote Flask APIs and Celery workers for background job processing
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Django, Express, Java, Node.js
+
+EDUCATION
+B.Tech / B.Sc, Pune University

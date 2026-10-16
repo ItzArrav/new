@@ -1,0 +1,23 @@
+Diya Iyer
+Technical Specialist
+diya@example.com
+
+SUMMARY
+Technical Specialist with 3 years of experience.
+
+EXPERIENCE
+Helio Group - Technical Specialist (2021 - present)
+- Validated intent classification accuracy and utterance variations for a banking virtual assistant
+- Designed test cases for intent coverage and dialogue flows of a customer-support chatbot
+- Tested Dialogflow and Rasa bots for fallback handling, entity extraction and multi-turn context
+
+BlueLake Technologies - Technical Specialist (2016 - 2021)
+- Evaluated LLM output quality for a conversational assistant using rubric-based scoring
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Jira, test case design, intent testing, dialogue flows
+
+EDUCATION
+B.Tech / B.Sc, Pune University

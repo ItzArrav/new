@@ -1,0 +1,24 @@
+Meera Iyer
+LLM Applications Engineer
+meera@example.com
+
+SUMMARY
+LLM Applications Engineer with 4 years of experience.
+
+EXPERIENCE
+Northwind Systems - LLM Applications Engineer (2021 - present)
+- Developed multi-agent LLM workflows with LangGraph and tool calling
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+- Served open-source LLMs with vLLM and quantization on GPU infrastructure
+
+Summit Services - LLM Applications Engineer (2016 - 2021)
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Fine-tuned transformer models with LoRA for domain-specific text classification
+- Logged and triaged chatbot hallucination and tone defects with reproducible transcripts
+- Collaborated with cross-functional teams in Agile sprints
+
+SKILLS
+Python, PyTorch, LangChain, LangGraph, RAG, vector databases, LoRA fine-tuning, vLLM, Docker
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

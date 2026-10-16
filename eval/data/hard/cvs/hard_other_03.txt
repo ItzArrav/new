@@ -1,0 +1,22 @@
+Meera Sharma
+Software Engineer
+meera@example.com
+
+SUMMARY
+Software Engineer with 9 years of experience.
+
+EXPERIENCE
+Helio Group - Software Engineer (2021 - present)
+- Built Power BI dashboards for sales, churn and regional performance
+- Wrote SQL queries on Snowflake for weekly KPI reporting
+- Cleaned and analysed survey data in Python with pandas
+
+Crestline Corp - Software Engineer (2016 - 2021)
+- Analysed A/B tests for marketing campaigns and presented the results
+- Presented monthly insights to the leadership team
+
+SKILLS
+SQL, Power BI, Excel, Python, pandas, Snowflake
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

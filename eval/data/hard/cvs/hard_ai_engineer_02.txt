@@ -1,0 +1,23 @@
+Sara Reddy
+Senior Engineer
+sara@example.com
+
+SUMMARY
+Senior Engineer with 6 years of experience.
+
+EXPERIENCE
+Crestline Corp - Senior Engineer (2021 - present)
+- Designed prompt templates, evaluation harnesses and guardrails for LLM applications
+- Fine-tuned transformer models with LoRA for domain-specific text classification
+- Trained PyTorch models for computer vision and optimized inference with ONNX
+
+Helio Group - Senior Engineer (2016 - 2021)
+- Developed multi-agent LLM workflows with LangGraph and tool calling
+- Implemented retrieval re-ranking and chunking strategies to improve RAG answer quality
+- Presented weekly status updates to stakeholders
+
+SKILLS
+LangChain, PyTorch, Python, vLLM
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

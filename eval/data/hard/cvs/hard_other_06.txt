@@ -1,0 +1,22 @@
+Diya Singh
+Engineer
+diya@example.com
+
+SUMMARY
+Engineer with 10 years of experience.
+
+EXPERIENCE
+Crestline Corp - Engineer (2021 - present)
+- Managed delivery of a mobile banking app with a 12-person team
+- Ran Scrum ceremonies and tracked sprint velocity in Jira
+- Coordinated user acceptance testing between QA and the business
+
+Helio Group - Engineer (2016 - 2021)
+- Managed vendor contracts and a budget of 1.2 million dollars
+- Reported project risks and status to the steering committee
+
+SKILLS
+Scrum, Jira, stakeholder management, budgeting, risk management
+
+EDUCATION
+B.Tech / B.Sc, Anna University

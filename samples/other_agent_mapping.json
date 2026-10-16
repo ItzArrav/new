@@ -1,0 +1,1 @@
+{"ts":"timestamp","user":"user_id","agent":"agent_name","model":"model_name","input_tokens":"usage.prompt_tokens","output_tokens":"usage.completion_tokens","latency_ms":"duration_ms","status":"outcome"}

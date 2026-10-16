@@ -1,0 +1,23 @@
+Anika Mehta
+Senior Engineer
+anika@example.com
+
+SUMMARY
+Senior Engineer with 4 years of experience.
+
+EXPERIENCE
+Orchid Labs - Senior Engineer (2021 - present)
+- Created cross-browser test automation on BrowserStack using Playwright
+- Maintained a Cypress end-to-end test library for a React application
+- Integrated web UI test automation with Jenkins and generated Allure reports
+
+Crestline Corp - Senior Engineer (2016 - 2021)
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+- Automated regression suites in Cypress covering login, checkout and search flows
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+TestNG, Playwright, Cypress, Selenium WebDriver
+
+EDUCATION
+B.Tech / B.Sc, Anna University

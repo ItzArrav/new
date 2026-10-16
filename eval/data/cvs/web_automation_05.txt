@@ -1,0 +1,24 @@
+Anika Gupta
+SDET
+anika@example.com
+
+SUMMARY
+SDET with 5 years of experience.
+
+EXPERIENCE
+BlueLake Technologies - SDET (2021 - present)
+- Automated regression suites in Cypress covering login, checkout and search flows
+- Maintained a Cypress end-to-end test library for a React application
+- Reduced flaky UI tests by introducing explicit waits and stable locators in Selenium
+
+Summit Services - SDET (2016 - 2021)
+- Integrated web UI test automation with Jenkins and generated Allure reports
+- Wrote end-to-end Playwright tests in TypeScript that run in CI on every pull request
+- Built Appium test automation for Android and iOS apps using Java and TestNG
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Selenium WebDriver, Playwright, Cypress, TestNG, Allure, Jenkins, Page Object Model
+
+EDUCATION
+B.Tech / B.Sc, Anna University

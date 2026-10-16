@@ -1,0 +1,23 @@
+Kabir Iyer
+Technical Specialist
+kabir@example.com
+
+SUMMARY
+Technical Specialist with 6 years of experience.
+
+EXPERIENCE
+Crestline Corp - Technical Specialist (2021 - present)
+- Built Appium test automation for Android and iOS apps using Java and TestNG
+- Created XCUITest suites for an iOS app and ran them on a device farm
+- Executed mobile app automation across 30 device and OS combinations on BrowserStack App Automate
+
+Orchid Labs - Technical Specialist (2016 - 2021)
+- Maintained Appium page objects and gesture helpers for swipe, scroll and deep-link scenarios
+- Automated mobile regression flows with Appium and WebdriverIO on real devices
+- Mentored junior colleagues and reviewed their work
+
+SKILLS
+Espresso, Appium, Fastlane, BrowserStack App Automate
+
+EDUCATION
+B.Tech / B.Sc, Delhi University

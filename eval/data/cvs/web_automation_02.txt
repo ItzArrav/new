@@ -1,0 +1,23 @@
+Neel Patel
+SDET
+neel@example.com
+
+SUMMARY
+SDET with 6 years of experience.
+
+EXPERIENCE
+Summit Services - SDET (2021 - present)
+- Maintained a Cypress end-to-end test library for a React application
+- Automated regression suites in Cypress covering login, checkout and search flows
+- Integrated web UI test automation with Jenkins and generated Allure reports
+
+Helio Group - SDET (2016 - 2021)
+- Built a Selenium WebDriver framework with the Page Object Model in Java
+- Automated web form validation scenarios with Selenium Grid and TestNG
+- Presented weekly status updates to stakeholders
+
+SKILLS
+Selenium WebDriver, Playwright, Cypress, TestNG, Allure, Jenkins, Page Object Model
+
+EDUCATION
+B.Tech / B.Sc, Anna University

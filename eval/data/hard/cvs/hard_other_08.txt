@@ -1,0 +1,22 @@
+Aarav Gupta
+Technical Specialist
+aarav@example.com
+
+SUMMARY
+Technical Specialist with 3 years of experience.
+
+EXPERIENCE
+Northwind Systems - Technical Specialist (2021 - present)
+- Resolved 40 or more helpdesk tickets a day for laptops, email and VPN
+- Managed user accounts and group policies in Active Directory
+- Imaged and deployed Windows laptops for new joiners
+
+Summit Services - Technical Specialist (2016 - 2021)
+- Wrote knowledge-base articles for common issues
+- Supported office moves and meeting-room hardware
+
+SKILLS
+Active Directory, Windows, Office 365, VPN, ticketing, hardware
+
+EDUCATION
+B.Tech / B.Sc, Delhi University
