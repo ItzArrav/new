@@ -26,6 +26,7 @@ from .routes_limits import router as limits_router
 from .routes_rolefit import router as rolefit_router
 from .routes_roles import router as roles_router
 from .routes_decisions import router as decisions_router
+from .routes_email import router as email_router
 from .routes_sentiment import router as sentiment_router
 from .usage import usage_config
 
@@ -45,8 +46,9 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(title="Multi-user agent platform", lifespan=lifespan)
-for _r in (cv_router, decisions_router, batch_router, sentiment_router, feedback_router, rolefit_router, roles_router, dashboard_router, limits_router, admin_router, dev_router):
+for _r in (cv_router, decisions_router, email_router, batch_router, sentiment_router, feedback_router, rolefit_router, roles_router, dashboard_router, limits_router, admin_router, dev_router):
     app.include_router(_r)
+
 
 
 @app.get("/", include_in_schema=False)

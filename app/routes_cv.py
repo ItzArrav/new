@@ -9,8 +9,9 @@ from .agents.cv_checker import classify_with_quality
 from .agents.cv_extract import SUPPORTED, ExtractError, extract_text
 from .agents.cv_schema import CVClassification
 from .db import get_db
+from .email_extract import extract_candidate_email, extract_candidate_name
 from .limits import enforce_budget, enforce_rate_limit
-from .models import Recommendation, User
+from .models import Recommendation, SentEmail, User
 from .security import get_current_user, scope_to_user
 
 router = APIRouter(prefix="/cv", tags=["cv"])
@@ -63,10 +64,28 @@ def classify(
 def my_recommendations(user: User = Depends(get_current_user), db: Session = Depends(get_db)):
     stmt = scope_to_user(select(Recommendation), Recommendation.user_id, user)
     rows = db.scalars(stmt.order_by(Recommendation.id.desc()).limit(100)).all()
+    rec_ids = [r.id for r in rows]
+    sent_map = {}
+    if rec_ids:
+        sent_rows = db.scalars(select(SentEmail).where(SentEmail.recommendation_id.in_(rec_ids))).all()
+        for s in sent_rows:
+            sent_map.setdefault(s.recommendation_id, []).append({
+                "id": s.id,
+                "recipient_email": s.recipient_email,
+                "status": s.status,
+                "template_type": s.template_type,
+                "subject": s.subject,
+                "ts": s.ts.isoformat(),
+            })
+
     return [
         dict(id=r.id, user_id=r.user_id, filename=r.filename, ts=r.ts.isoformat(), result=json.loads(r.result_json),
              quality=json.loads(r.quality_json) if r.quality_json else None,
              feedback=json.loads(r.feedback_json) if r.feedback_json else None,
-             role_fit=json.loads(r.role_fit_json) if r.role_fit_json else None)
+             role_fit=json.loads(r.role_fit_json) if r.role_fit_json else None,
+             candidate_email=extract_candidate_email(r.cv_text),
+             candidate_name=extract_candidate_name(r.cv_text, r.filename),
+             sent_emails=sent_map.get(r.id, []))
         for r in rows
     ]
+

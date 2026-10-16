@@ -52,7 +52,16 @@ class Settings(BaseSettings):
     review_min_per_cv: float = 2.0
     manual_min_per_feedback: float = 1.0
     review_min_per_feedback: float = 0.25
-    modify_credit: float = 0.5  # share of the saving kept when the user modifies a result
+    modify_credit: float = 0.5  # fraction of CV time-saved counted for "modify" decisions
+    # Email / SMTP settings for candidate reply emails
+    smtp_host: str = ""           # e.g. "smtp.gmail.com"
+    smtp_port: int = 587
+    smtp_user: str = ""           # e.g. "yourname@gmail.com"
+    smtp_password: str = ""       # App Password
+    smtp_from: str = ""           # default sender header (defaults to smtp_user)
+    smtp_use_tls: bool = True
+    company_name: str = "Our Startup"
+    recruiter_name: str = "Hiring Team"
 
 
 settings = Settings()

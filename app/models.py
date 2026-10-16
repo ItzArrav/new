@@ -182,3 +182,22 @@ class RateEvent(Base):
     user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True)
     ts: Mapped[datetime] = mapped_column(DateTime, default=utcnow, index=True)
     weight: Mapped[int] = mapped_column(Integer, default=1)
+
+
+class SentEmail(Base):
+    """Tracks candidate reply emails (interviews, rejections, shortlists) sent both individually and in batch."""
+
+    __tablename__ = "sent_emails"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    user_id: Mapped[int] = mapped_column(ForeignKey("users.id"), index=True)
+    recommendation_id: Mapped[int | None] = mapped_column(ForeignKey("recommendations.id"), nullable=True, index=True)
+    recipient_email: Mapped[str] = mapped_column(String(256), index=True)
+    candidate_name: Mapped[str | None] = mapped_column(String(128), nullable=True)
+    subject: Mapped[str] = mapped_column(String(256))
+    body: Mapped[str] = mapped_column(Text)
+    template_type: Mapped[str] = mapped_column(String(32), default="custom")  # interview | shortlist | reject | custom
+    status: Mapped[str] = mapped_column(String(16), default="sent")  # sent | simulated | failed
+    error: Mapped[str | None] = mapped_column(Text, nullable=True)
+    ts: Mapped[datetime] = mapped_column(DateTime, default=utcnow, index=True)
+
